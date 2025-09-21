@@ -5,4 +5,4 @@ I prefer Microsoft, C#.Net with SQL Server.  MVC or Angular.
 I'm going on vaction during week 7, so we'll need to plan around that (fictional).
 
 
-Merge conflict
+this is the second.
